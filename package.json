@@ -1,0 +1,19 @@
+{
+  "name": "logiccap",
+  "version": "1.0.0",
+  "description": "simple javascript game",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/De-voice/LogicCap.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/De-voice/LogicCap/issues"
+  },
+  "homepage": "https://github.com/De-voice/LogicCap#readme"
+}
